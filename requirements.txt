@@ -8,3 +8,4 @@ psycopg2==2.8.4
 pystan==2.19.1.1
 fbprophet==0.6
 folium==0.11.0
+redis==3.5.3
